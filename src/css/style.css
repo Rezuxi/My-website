@@ -1,0 +1,51 @@
+html, body {
+  background-color: #00BFFF;
+}
+
+#form {
+  background-color: inherit;
+
+}
+
+#button {
+  background-color: inherit;
+}
+
+#input {
+
+}
+
+#tts {
+  flex: 1;
+  background-color: red;
+  align-content: center;
+  margin: 25px;
+  border-radius: 10px;
+  border-top-right-radius: 10px;
+  border-width: 100px;
+  border-color: black;
+}
+#lower2container {
+  flex-direction: row;
+  align-content: space-between;
+  align-items: flex-start;
+}
+
+#left {
+  align-self: flex-start;
+  background-color: blue;
+  width:50%;
+}
+
+#right {
+  align-self: flex-end;
+  background-color: green;
+  width:50%;
+}
+h1 {}
+
+p {
+
+}
+
+h2 {}
